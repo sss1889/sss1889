@@ -5,14 +5,14 @@
 
 ---
 
-### 🚀 **ポートフォリオサイト (My Portfolio Website)**
+###  **ポートフォリオサイト (My Portfolio Website)**
 
 私の開発プロジェクト、スキルセット、そしてこれまでの経験に関する詳細な情報は、以下のポートフォリオサイトで紹介しています。
 
-## ➡️ **[https://namiki-portfolio.vercel.app/](https://namiki-portfolio.vercel.app/)** ⬅️
+## **[https://namiki-portfolio.vercel.app/](https://namiki-portfolio.vercel.app/)**
 
 ---
 
-### 🔗 **Connect with Me**
+### **Connect with Me**
 * **LinkedIn:** [Namiki Chikusa](https://www.linkedin.com/in/namiki-chikusa-37b738301)
 * **Email:** [natsukirin65@gmail.com](mailto:natsukirin65@gmail.com)
