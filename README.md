@@ -1,3 +1,3 @@
 株式会社STARUPでバックエンドエンジニアをやっています。
-* **Portfolio:** [namiki-portfolio.vercel.app](https://namiki-portfolio.vercel.app/)
-* **LinkedIn:** [Namiki Chikusa](https://www.linkedin.com/in/namiki-chikusa-37b738301)
+
+I am a Backend Developer at STARUP. 
